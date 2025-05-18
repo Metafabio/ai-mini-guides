@@ -12,6 +12,15 @@ Each guide focuses on helping you understand **how AI works**, what it's **usefu
 |-------|-------------|
 | [`llm-explained.md`](llm-explained.md) | What is a Large Language Model (LLM)? A beginner-friendly explanation with real-world examples. |
 
+- [Cos’è un Large Language Model (LLM)?](./llm-explained-it.md)  
+  Spiegazione semplice di cosa sono i modelli di linguaggio di grandi dimensioni e come funzionano.
+
+- [Cos’è il Prompt Engineering?](./prompt-engineering-it.md)  
+  Guida su come scrivere istruzioni efficaci per ottenere risposte migliori dai modelli AI.
+
+- [Cos’è RAG? (Retrieval-Augmented Generation)](./rag-explained-it.md)  
+  Spiegazione di come l’AI può integrare la ricerca documentale per risposte più accurate e aggiornate.
+
 ---
 
 ## ✨ Why This Repo?
